@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" filepath="$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" filepath="$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" filepath="$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/148_SortList/148_SortList.iml" filepath="$PROJECT_DIR$/148_SortList/148_SortList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+    </modules>
+  </component>
+</project>
