@@ -50,12 +50,12 @@ public class SortList_QuickSort {
 
     private static ListNode partition(ListNode begin, ListNode end) {
 
-        int x = begin.val;
+        int pivot = begin.val;
         ListNode dest = begin;
         ListNode pointer = dest.next;
 
         while(pointer != end) {
-            if(pointer.val < x) {
+            if(pointer.val < pivot) {
                 dest = dest.next;
                 int tmp = dest.val;
                 dest.val = pointer.val;
@@ -70,6 +70,7 @@ public class SortList_QuickSort {
 
         return dest;
     }
+
 
     static class ListNode {
         int val;
