@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" filepath="$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" filepath="$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/138_CopyListWithRandomPointer/138_CopyListWithRandomPointer.iml" filepath="$PROJECT_DIR$/138_CopyListWithRandomPointer/138_CopyListWithRandomPointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/139_WordBreak/139_WordBreak.iml" filepath="$PROJECT_DIR$/139_WordBreak/139_WordBreak.iml" />
       <module fileurl="file://$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" filepath="$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" />
       <module fileurl="file://$PROJECT_DIR$/148_SortList/148_SortList.iml" filepath="$PROJECT_DIR$/148_SortList/148_SortList.iml" />

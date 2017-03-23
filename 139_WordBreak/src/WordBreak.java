@@ -16,6 +16,11 @@ import java.util.Set;
  *
  * Return true because "leetcode" can be segmented as "leet code".
  *
+ *
+ * possible[i] = true      if S[0,i]在dictionary里面
+ *             = true      if possible[k] == true 并且 S[k+1,i]在dictionary里面， 0<k<i
+ *             = false      if no such k exist
+ *
  **********************************************************************************/
 public class WordBreak {
 
