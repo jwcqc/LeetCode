@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/142_LinkedListCycleII/142_LinkedListCycleII.iml" filepath="$PROJECT_DIR$/142_LinkedListCycleII/142_LinkedListCycleII.iml" />
       <module fileurl="file://$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" filepath="$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" />
       <module fileurl="file://$PROJECT_DIR$/148_SortList/148_SortList.iml" filepath="$PROJECT_DIR$/148_SortList/148_SortList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" filepath="$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/78_Subsets/78_Subsets.iml" filepath="$PROJECT_DIR$/78_Subsets/78_Subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
     </modules>
   </component>

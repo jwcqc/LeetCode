@@ -34,6 +34,8 @@ public class WordBreak {
 
     /**
      * 动态规划
+     * 状态转移方程：f(i) 表示s[0,i]是否可以分词，
+     * f(i) = f(j) && f(j+1,i); 0 <= j < i;
      * @param s
      * @param wordDict
      * @return
@@ -64,5 +66,36 @@ public class WordBreak {
 
         return dp[len];
     }
+
+    /**
+     * dfs
+     * @param s
+     * @param wordDict
+     * @return
+     */
+    public static boolean wordBreak2(String s, Set<String> wordDict) {
+
+        int n = s.length();
+        int[][] arr = new int[n+1][n+1];
+
+        dfs(s, 0, wordDict, arr);
+
+
+        return false;
+    }
+
+    private static boolean dfs(String s, int start, Set<String> wordDict, int[][] arr) {
+
+        int n = s.length();
+        for(int i=start; i<n; i++) {
+
+
+
+        }
+
+
+        return false;
+    }
+
 
 }
