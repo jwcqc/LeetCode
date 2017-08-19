@@ -30,7 +30,7 @@ public class Solution {
         List<List<Integer>> list = new Solution().combine(4, 2);
 
         for(int i=0; i<list.size(); i++) {
-            for(int k : lihttp://blog.csdn.net/boyupeng/article/details/48135003st.get(i)) {
+            for(int k : list.get(i)) {
                 System.out.print(k + " ");
             }
             System.out.println();
