@@ -19,8 +19,14 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        new Solution().permute(new int[]{1,2,3,4});
+        List<List<Integer>> list = new Solution().permute(new int[]{1,2,3,4});
 
+        for(int i=0; i<list.size(); i++) {
+            for(int k : list.get(i)) {
+                System.out.print(k + " ");
+            }
+            System.out.println();
+        }
     }
 
     public ArrayList<ArrayList<Integer>> permute(int[] num) {
