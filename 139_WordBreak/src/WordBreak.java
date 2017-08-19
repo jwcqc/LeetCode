@@ -48,6 +48,7 @@ public class WordBreak {
 
         /*for (int i = 1; i <= len; i++) {
             for (int j = 0; j < i; j++) {
+                String tmp = s.substring(j, i);
                 if (dp[j] && wordDict.contains(s.substring(j, i))) {
                     dp[i] = true;
                 }
