@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/0_Other/0_Other.iml" filepath="$PROJECT_DIR$/0_Other/0_Other.iml" />
       <module fileurl="file://$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" filepath="$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" filepath="$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/132_PalindromePartitioningII/132_PalindromePartitioningII.iml" filepath="$PROJECT_DIR$/132_PalindromePartitioningII/132_PalindromePartitioningII.iml" />
       <module fileurl="file://$PROJECT_DIR$/134_GasStation/134_GasStation.iml" filepath="$PROJECT_DIR$/134_GasStation/134_GasStation.iml" />
       <module fileurl="file://$PROJECT_DIR$/136_SingleNumber/136_SingleNumber.iml" filepath="$PROJECT_DIR$/136_SingleNumber/136_SingleNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/137_SingleNumberII/137_SingleNumberII.iml" filepath="$PROJECT_DIR$/137_SingleNumberII/137_SingleNumberII.iml" />
       <module fileurl="file://$PROJECT_DIR$/138_CopyListWithRandomPointer/138_CopyListWithRandomPointer.iml" filepath="$PROJECT_DIR$/138_CopyListWithRandomPointer/138_CopyListWithRandomPointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/139_WordBreak/139_WordBreak.iml" filepath="$PROJECT_DIR$/139_WordBreak/139_WordBreak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/140_WordBreakII/140_WordBreakII.iml" filepath="$PROJECT_DIR$/140_WordBreakII/140_WordBreakII.iml" />
       <module fileurl="file://$PROJECT_DIR$/141_LinkedListCycle/141_LinkedListCycle.iml" filepath="$PROJECT_DIR$/141_LinkedListCycle/141_LinkedListCycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/142_LinkedListCycleII/142_LinkedListCycleII.iml" filepath="$PROJECT_DIR$/142_LinkedListCycleII/142_LinkedListCycleII.iml" />
       <module fileurl="file://$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" filepath="$PROJECT_DIR$/147_InsertionSortList/147_InsertionSortList.iml" />
       <module fileurl="file://$PROJECT_DIR$/148_SortList/148_SortList.iml" filepath="$PROJECT_DIR$/148_SortList/148_SortList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/312_BurstBalloons/312_BurstBalloons.iml" filepath="$PROJECT_DIR$/312_BurstBalloons/312_BurstBalloons.iml" />
       <module fileurl="file://$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" filepath="$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_3. LongestSubstringWithoutRepeatingCharacters/3_3. LongestSubstringWithoutRepeatingCharacters.iml" filepath="$PROJECT_DIR$/3_3. LongestSubstringWithoutRepeatingCharacters/3_3. LongestSubstringWithoutRepeatingCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/40_CombinationSumII/40_CombinationSumII.iml" filepath="$PROJECT_DIR$/40_CombinationSumII/40_CombinationSumII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47_PermutationsII/47_PermutationsII.iml" filepath="$PROJECT_DIR$/47_PermutationsII/47_PermutationsII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/62_UniquePaths/62_UniquePaths.iml" filepath="$PROJECT_DIR$/62_UniquePaths/62_UniquePaths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" filepath="$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" filepath="$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/70_ClimbingStairs/70_ClimbingStairs.iml" filepath="$PROJECT_DIR$/70_ClimbingStairs/70_ClimbingStairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/77_Combinations/77_Combinations.iml" filepath="$PROJECT_DIR$/77_Combinations/77_Combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/78_Subsets/78_Subsets.iml" filepath="$PROJECT_DIR$/78_Subsets/78_Subsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/79_WordSearch/79_WordSearch.iml" filepath="$PROJECT_DIR$/79_WordSearch/79_WordSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/90_SubsetsII/90_SubsetsII.iml" filepath="$PROJECT_DIR$/90_SubsetsII/90_SubsetsII.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
     </modules>
   </component>
