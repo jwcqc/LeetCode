@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/0_Other/0_Other.iml" filepath="$PROJECT_DIR$/0_Other/0_Other.iml" />
       <module fileurl="file://$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" filepath="$PROJECT_DIR$/111_MinimumDepthOfBinaryTree/111_MinimumDepthOfBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" filepath="$PROJECT_DIR$/131_PalindromePartitioning/131_PalindromePartitioning.iml" />
       <module fileurl="file://$PROJECT_DIR$/132_PalindromePartitioningII/132_PalindromePartitioningII.iml" filepath="$PROJECT_DIR$/132_PalindromePartitioningII/132_PalindromePartitioningII.iml" />
@@ -23,12 +22,17 @@
       <module fileurl="file://$PROJECT_DIR$/208_ImplementTrie-PrefixTree/208_ImplementTrie-PrefixTree.iml" filepath="$PROJECT_DIR$/208_ImplementTrie-PrefixTree/208_ImplementTrie-PrefixTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/212_WordSearchII/212_WordSearchII.iml" filepath="$PROJECT_DIR$/212_WordSearchII/212_WordSearchII.iml" />
       <module fileurl="file://$PROJECT_DIR$/215_KthLargestElementInAnArray/215_KthLargestElementInAnArray.iml" filepath="$PROJECT_DIR$/215_KthLargestElementInAnArray/215_KthLargestElementInAnArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/216_combination-sum-iii/216_combination-sum-iii.iml" filepath="$PROJECT_DIR$/216_combination-sum-iii/216_combination-sum-iii.iml" />
       <module fileurl="file://$PROJECT_DIR$/24_SwapNodesInPairs/24_SwapNodesInPairs.iml" filepath="$PROJECT_DIR$/24_SwapNodesInPairs/24_SwapNodesInPairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/312_BurstBalloons/312_BurstBalloons.iml" filepath="$PROJECT_DIR$/312_BurstBalloons/312_BurstBalloons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/322_coin-change/322_coin-change.iml" filepath="$PROJECT_DIR$/322_coin-change/322_coin-change.iml" />
       <module fileurl="file://$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" filepath="$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_3. LongestSubstringWithoutRepeatingCharacters/3_3. LongestSubstringWithoutRepeatingCharacters.iml" filepath="$PROJECT_DIR$/3_3. LongestSubstringWithoutRepeatingCharacters/3_3. LongestSubstringWithoutRepeatingCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/402_remove-k-digits/402_remove-k-digits.iml" filepath="$PROJECT_DIR$/402_remove-k-digits/402_remove-k-digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/40_CombinationSumII/40_CombinationSumII.iml" filepath="$PROJECT_DIR$/40_CombinationSumII/40_CombinationSumII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/416_partition-equal-subset-sum/416_partition-equal-subset-sum.iml" filepath="$PROJECT_DIR$/416_partition-equal-subset-sum/416_partition-equal-subset-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/47_PermutationsII/47_PermutationsII.iml" filepath="$PROJECT_DIR$/47_PermutationsII/47_PermutationsII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/494_target-sum/494_target-sum.iml" filepath="$PROJECT_DIR$/494_target-sum/494_target-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/62_UniquePaths/62_UniquePaths.iml" filepath="$PROJECT_DIR$/62_UniquePaths/62_UniquePaths.iml" />
       <module fileurl="file://$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" filepath="$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" />
       <module fileurl="file://$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" filepath="$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" />

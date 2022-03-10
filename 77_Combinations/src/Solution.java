@@ -46,13 +46,18 @@ public class Solution {
         return result;
     }
 
-    private void backtrack(List<List<Integer>> result, List<Integer> track, int m, int n, int k) {
+    private void backtrack(List<List<Integer>> result, List<Integer> track, int startIndex, int n, int k) {
         if (track.size() == k) {
             List<Integer> t = new ArrayList<>(track);
             result.add(t);
             return;
         }
-        for (int i = m; i <= n; i++) {
+        /**
+         * 这里可以剪枝，如果for循环选择的起始位置之后的元素个数已经不满足我们需要的元素个数了，那么就没有必要搜索了。
+         * 从 n - (k-track.size()) + 1 以后的位置再开始遍历，个数就不会满足k了
+         */
+        //for (int i = startIndex; i <= n; i++) {
+        for(int i = startIndex; i <= n - (k-track.size()) + 1; i++) {
             track.add(i);
             backtrack(result, track, i + 1, n, k);
             track.remove(track.size() - 1);
