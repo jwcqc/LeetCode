@@ -63,6 +63,8 @@ public class Solution {
 
             String sub = s.substring(start, i+1);
 
+            // 因为截取字符串是消耗性能的，因此，采用isPalindrome方法可以考虑传子串下标的方式判断一个子串是否是回文子串
+            // 如 isPalindrome(s, start, i);
             if(isPalindrome(sub)) {
                 list.add(sub);
 

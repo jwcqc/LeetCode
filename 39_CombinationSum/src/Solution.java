@@ -53,7 +53,9 @@ public class Solution {
         } else if (remain == 0) {
             list.add(new ArrayList<>(tempList));
         } else {
-            for (int i = start; i < nums.length; i++) {
+            // 提前做剪枝，不然要到下一层已经remain已经<0了才能退出
+            // for (int i = start; i < nums.length; i++) {
+            for (int i = start; i < nums.length && remain >= nums[i]; i++) {
                 tempList.add(nums[i]);
                 // not i + 1 because we can reuse same elements
                 backtrack(list, tempList, nums, remain - nums[i], i);
