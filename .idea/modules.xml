@@ -20,10 +20,12 @@
       <module fileurl="file://$PROJECT_DIR$/174_DungeonGame/174_DungeonGame.iml" filepath="$PROJECT_DIR$/174_DungeonGame/174_DungeonGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_TwoSum/1_TwoSum.iml" filepath="$PROJECT_DIR$/1_TwoSum/1_TwoSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/208_ImplementTrie-PrefixTree/208_ImplementTrie-PrefixTree.iml" filepath="$PROJECT_DIR$/208_ImplementTrie-PrefixTree/208_ImplementTrie-PrefixTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/209_minSizeSubArraySum/209_minSizeSubArraySum.iml" filepath="$PROJECT_DIR$/209_minSizeSubArraySum/209_minSizeSubArraySum.iml" />
       <module fileurl="file://$PROJECT_DIR$/212_WordSearchII/212_WordSearchII.iml" filepath="$PROJECT_DIR$/212_WordSearchII/212_WordSearchII.iml" />
       <module fileurl="file://$PROJECT_DIR$/215_KthLargestElementInAnArray/215_KthLargestElementInAnArray.iml" filepath="$PROJECT_DIR$/215_KthLargestElementInAnArray/215_KthLargestElementInAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/216_combination-sum-iii/216_combination-sum-iii.iml" filepath="$PROJECT_DIR$/216_combination-sum-iii/216_combination-sum-iii.iml" />
       <module fileurl="file://$PROJECT_DIR$/24_SwapNodesInPairs/24_SwapNodesInPairs.iml" filepath="$PROJECT_DIR$/24_SwapNodesInPairs/24_SwapNodesInPairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27_remove-element/27_remove-element.iml" filepath="$PROJECT_DIR$/27_remove-element/27_remove-element.iml" />
       <module fileurl="file://$PROJECT_DIR$/312_BurstBalloons/312_BurstBalloons.iml" filepath="$PROJECT_DIR$/312_BurstBalloons/312_BurstBalloons.iml" />
       <module fileurl="file://$PROJECT_DIR$/322_coin-change/322_coin-change.iml" filepath="$PROJECT_DIR$/322_coin-change/322_coin-change.iml" />
       <module fileurl="file://$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" filepath="$PROJECT_DIR$/39_CombinationSum/39_CombinationSum.iml" />
@@ -33,14 +35,20 @@
       <module fileurl="file://$PROJECT_DIR$/416_partition-equal-subset-sum/416_partition-equal-subset-sum.iml" filepath="$PROJECT_DIR$/416_partition-equal-subset-sum/416_partition-equal-subset-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/47_PermutationsII/47_PermutationsII.iml" filepath="$PROJECT_DIR$/47_PermutationsII/47_PermutationsII.iml" />
       <module fileurl="file://$PROJECT_DIR$/494_target-sum/494_target-sum.iml" filepath="$PROJECT_DIR$/494_target-sum/494_target-sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/59_spiral-matrix-ii/59_spiral-matrix-ii.iml" filepath="$PROJECT_DIR$/59_spiral-matrix-ii/59_spiral-matrix-ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_longest-palindromic-substring/5_longest-palindromic-substring.iml" filepath="$PROJECT_DIR$/5_longest-palindromic-substring/5_longest-palindromic-substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/62_UniquePaths/62_UniquePaths.iml" filepath="$PROJECT_DIR$/62_UniquePaths/62_UniquePaths.iml" />
       <module fileurl="file://$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" filepath="$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" />
       <module fileurl="file://$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" filepath="$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/704_binary-search/704_binary-search.iml" filepath="$PROJECT_DIR$/704_binary-search/704_binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/70_ClimbingStairs/70_ClimbingStairs.iml" filepath="$PROJECT_DIR$/70_ClimbingStairs/70_ClimbingStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/77_Combinations/77_Combinations.iml" filepath="$PROJECT_DIR$/77_Combinations/77_Combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/78_Subsets/78_Subsets.iml" filepath="$PROJECT_DIR$/78_Subsets/78_Subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/79_WordSearch/79_WordSearch.iml" filepath="$PROJECT_DIR$/79_WordSearch/79_WordSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_letter-combinations-of-a-phone-number/7_letter-combinations-of-a-phone-number.iml" filepath="$PROJECT_DIR$/7_letter-combinations-of-a-phone-number/7_letter-combinations-of-a-phone-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/90_SubsetsII/90_SubsetsII.iml" filepath="$PROJECT_DIR$/90_SubsetsII/90_SubsetsII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/93_restore-ip-addresses/93_restore-ip-addresses.iml" filepath="$PROJECT_DIR$/93_restore-ip-addresses/93_restore-ip-addresses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/977_squares-of-a-sorted-array/977_squares-of-a-sorted-array.iml" filepath="$PROJECT_DIR$/977_squares-of-a-sorted-array/977_squares-of-a-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
     </modules>
   </component>
