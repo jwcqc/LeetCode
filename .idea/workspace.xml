@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bda8acdd-79b8-4bc0-ad5f-f7d1544f5414" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/494_target-sum/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/494_target-sum/src/Solution.java" afterDir="false" />
@@ -28,20 +27,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/494_target-sum/src/Solution.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/707_design-linked-list/src/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="221">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+                <element signature="e#1285#1286#0" expanded="true" />
+                <element signature="e#1327#1328#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/59_spiral-matrix-ii/src/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/707_design-linked-list/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            <state relative-caret-position="204">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -73,12 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/79_WordSearch/src/Solution.java" />
-        <option value="$PROJECT_DIR$/208_ImplementTrie-PrefixTree/src/Solution.java" />
-        <option value="$PROJECT_DIR$/212_WordSearchII/src/Solution.java" />
-        <option value="$PROJECT_DIR$/215_KthLargestElementInAnArray/src/Solution.java" />
-        <option value="$PROJECT_DIR$/0_Other/src/AliOne.java" />
-        <option value="$PROJECT_DIR$/0_Other/src/Toutiao2.java" />
         <option value="$PROJECT_DIR$/0_Other/src/jzoffer/Question_unknown_1.java" />
         <option value="$PROJECT_DIR$/0_Other/src/jzoffer/Question6.java" />
         <option value="$PROJECT_DIR$/0_Other/src/jzoffer/Question15.java" />
@@ -124,6 +125,12 @@
         <option value="$PROJECT_DIR$/LeetCode.iml" />
         <option value="$PROJECT_DIR$/209_minSizeSubArraySum/src/Solution.java" />
         <option value="$PROJECT_DIR$/59_spiral-matrix-ii/src/Solution.java" />
+        <option value="$PROJECT_DIR$/203_remove-linked-list-elements/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/203_remove-linked-list-elements/src/Solution.java" />
+        <option value="$PROJECT_DIR$/707_design-linked-list/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/707_design-linked-list/src/MyLinkedList2.java" />
+        <option value="$PROJECT_DIR$/707_design-linked-list/src/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/707_design-linked-list/src/Main.java" />
       </list>
     </option>
   </component>
@@ -174,30 +181,20 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="59_spiral-matrix-ii" type="462c0819:PsiDirectoryNode" />
+              <item name="707_design-linked-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="209_minSizeSubArraySum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="209_minSizeSubArraySum" type="462c0819:PsiDirectoryNode" />
+              <item name="707_design-linked-list" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,16 +209,16 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/209_minimum-size-subarray-sum" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="jzoffer" />
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\workspace\idea\LeetCode\111_MinimumDepthofBinaryTree\src" />
       <recent name="E:\workspace\idea\LeetCode\148_SortList\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="jzoffer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/209_minimum-size-subarray-sum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="AndroidRunConfigurationType">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -299,6 +296,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="707_design-linked-list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="209_minSizeSubArraySum" />
@@ -315,9 +320,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="704_binary-search" />
+      <module name="203_remove-linked-list-elements" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -326,14 +331,6 @@
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="977_squares-of-a-sorted-array" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="27_remove-element" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -519,19 +516,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +586,10 @@
       <workItem from="1647905445819" duration="3050000" />
       <workItem from="1647999113954" duration="1081000" />
       <workItem from="1648697277443" duration="582000" />
-      <workItem from="1648863213471" duration="7587000" />
+      <workItem from="1648863213471" duration="7912000" />
+      <workItem from="1649200716871" duration="2542000" />
+      <workItem from="1649724454091" duration="6169000" />
+      <workItem from="1649904661753" duration="2673000" />
     </task>
     <task id="LOCAL-00001" summary="change variable names">
       <created>1490260266869</created>
@@ -647,22 +647,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647998915153</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="solve some problems">
+      <created>1648904805138</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1648904805138</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239949000" />
+    <option name="totallyTimeSpent" value="251658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2167382" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22246066" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.328877" />
@@ -672,7 +678,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32882273" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.29739776" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.37174723" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.43742254" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -696,17 +702,17 @@
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2081545" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22246066" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.328877" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32713756" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32921812" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.6964064" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32889965" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32882273" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.29739776" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.30607188" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.43742254" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -722,7 +728,7 @@
       <window_info anchor="right" id="Properties" order="7" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.3297568" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -769,40 +775,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0_Other/src/toutiao/Test1.java" />
-    <entry file="file://$PROJECT_DIR$/0_Other/src/toutiao/Test2.java" />
-    <entry file="file://$PROJECT_DIR$/139_WordBreak/src/WordBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/140_WordBreakII/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/79_WordSearch/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="110" column="61" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/90_SubsetsII/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0_Other/src/Toutiao.java" />
     <entry file="file://$PROJECT_DIR$/0_Other/src/_01Package.java" />
     <entry file="file://$PROJECT_DIR$/0_Other/src/Father.java" />
@@ -1049,17 +1021,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/494_target-sum/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/59_spiral-matrix-ii/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="527">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/59_spiral-matrix-ii/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/494_target-sum/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        <state relative-caret-position="391">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/203_remove-linked-list-elements/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/203_remove-linked-list-elements/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/707_design-linked-list/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/707_design-linked-list/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/707_design-linked-list/src/MyLinkedList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/707_design-linked-list/src/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1115,7 +1143,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>59_spiral-matrix-ii</last-edited>
+          <last-edited>707_design-linked-list</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

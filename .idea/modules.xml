@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/160_IntersectionOfTwoLinkedLists/160_IntersectionOfTwoLinkedLists.iml" filepath="$PROJECT_DIR$/160_IntersectionOfTwoLinkedLists/160_IntersectionOfTwoLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/174_DungeonGame/174_DungeonGame.iml" filepath="$PROJECT_DIR$/174_DungeonGame/174_DungeonGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_TwoSum/1_TwoSum.iml" filepath="$PROJECT_DIR$/1_TwoSum/1_TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/203_remove-linked-list-elements/203_remove-linked-list-elements.iml" filepath="$PROJECT_DIR$/203_remove-linked-list-elements/203_remove-linked-list-elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/208_ImplementTrie-PrefixTree/208_ImplementTrie-PrefixTree.iml" filepath="$PROJECT_DIR$/208_ImplementTrie-PrefixTree/208_ImplementTrie-PrefixTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/209_minSizeSubArraySum/209_minSizeSubArraySum.iml" filepath="$PROJECT_DIR$/209_minSizeSubArraySum/209_minSizeSubArraySum.iml" />
       <module fileurl="file://$PROJECT_DIR$/212_WordSearchII/212_WordSearchII.iml" filepath="$PROJECT_DIR$/212_WordSearchII/212_WordSearchII.iml" />
@@ -41,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" filepath="$PROJECT_DIR$/63_UniquePathsII/63_UniquePathsII.iml" />
       <module fileurl="file://$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" filepath="$PROJECT_DIR$/64_MinimumPathSum/64_MinimumPathSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/704_binary-search/704_binary-search.iml" filepath="$PROJECT_DIR$/704_binary-search/704_binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/707_design-linked-list/707_design-linked-list.iml" filepath="$PROJECT_DIR$/707_design-linked-list/707_design-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/70_ClimbingStairs/70_ClimbingStairs.iml" filepath="$PROJECT_DIR$/70_ClimbingStairs/70_ClimbingStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/77_Combinations/77_Combinations.iml" filepath="$PROJECT_DIR$/77_Combinations/77_Combinations.iml" />
       <module fileurl="file://$PROJECT_DIR$/78_Subsets/78_Subsets.iml" filepath="$PROJECT_DIR$/78_Subsets/78_Subsets.iml" />
